@@ -51,27 +51,3 @@ File handling operations enable you to read from and write to files on your comp
 
 Modules are Python files containing reusable code. Packages are collections of modules organized in directories. They allow you to organize and structure large projects and reuse code across multiple programs.
 
-## 9. Object-Oriented Programming (OOP)
-
-OOP is a programming paradigm that uses objects (instances of classes) to structure code. It includes concepts like:
-
-- Classes and objects: Blueprints for creating objects with attributes and methods
-- Inheritance: Creating new classes based on existing ones
-- Polymorphism: Using a single interface for different data types
-- Encapsulation: Bundling data and methods that work on that data
-- Abstraction: Hiding complex implementation details
-
-## 10. Python Standard Library
-
-The Python Standard Library is a collection of modules and packages that come pre-installed with Python. It provides a wide range of functionality for common programming tasks, such as mathematical operations, date and time handling, and generating random numbers.
-
-## 11. Best Practices
-
-Following best practices ensures that your code is readable, maintainable, and consistent:
-
-- PEP 8: The official style guide for Python code
-- Code organization: Structuring your code logically
-- Documentation: Adding comments and docstrings to explain your code
-- Naming conventions: Using clear and consistent names for variables, functions, and classes
-
-These concepts form the foundation of Python programming. Understanding and applying them will help you write efficient, readable, and maintainable Python code.
